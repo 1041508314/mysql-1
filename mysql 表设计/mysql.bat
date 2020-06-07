@@ -1,0 +1,1 @@
+@java -cp "C:\java_code\web\mysql ±Ì…Ëº∆" com.lxy.MySQLClient %*

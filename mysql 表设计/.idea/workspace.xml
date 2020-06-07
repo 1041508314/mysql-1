@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e781fa1-8351-4279-a900-cd85d6acf2d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cviXPj50FeVX3ZHs4tN9PWZYWi" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-5.1.47.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java_code\data structure\mysql 表设计\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Batch.mysql">
+    <configuration name="JDBCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBCDemo" />
+      <module name="mysql 表设计" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySQLClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxy.MySQLClient" />
+      <module name="mysql 表设计" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="mysql 表设计" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\java_code\data structure\mysql 表设计" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="mysql.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Batch.mysql" />
+        <item itemvalue="Application.MySQLClient" />
+        <item itemvalue="Application.JDBCDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e781fa1-8351-4279-a900-cd85d6acf2d2" name="Default Changelist" comment="" />
+      <created>1591415506557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591415506557</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="357" y="125" key="FileChooserDialogImpl" timestamp="1591526969192">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="357" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1591526969192" />
+    <state width="1322" height="353" key="GridCell.Tab.0.bottom" timestamp="1591433556619">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="353" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591433556619" />
+    <state width="1322" height="353" key="GridCell.Tab.0.center" timestamp="1591433556619">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="353" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591433556619" />
+    <state width="1322" height="353" key="GridCell.Tab.0.left" timestamp="1591433556619">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="353" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591433556619" />
+    <state width="1322" height="353" key="GridCell.Tab.0.right" timestamp="1591433556619">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="353" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591433556619" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1591526930575">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1591526930575" />
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1591526904102">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1591526904102" />
+    <state x="413" y="137" key="extract.method.dialog" timestamp="1591425488148">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="137" key="extract.method.dialog/0.0.1366.768@0.0.1366.768" timestamp="1591425488148" />
+    <state x="57" y="0" key="new project wizard" timestamp="1591527122679">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1591527122679" />
+  </component>
+</project>
