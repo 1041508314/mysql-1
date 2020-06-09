@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e781fa1-8351-4279-a900-cd85d6acf2d2" name="Default Changelist" comment="" />
+    <list default="true" id="0e781fa1-8351-4279-a900-cd85d6acf2d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql.bat" beforeDir="false" afterPath="$PROJECT_DIR$/mysql.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysql 表设计/META-INF/mysql 表设计.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysql 表设计/com/lxy/MySQLClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mysql 表设计/com/lxy/MySQLClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lxy/MySQLClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lxy/MySQLClient.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +21,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1cviXPj50FeVX3ZHs4tN9PWZYWi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-5.1.47.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -33,7 +45,7 @@
       <recent name="C:\java_code\data structure\mysql 表设计\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Batch.mysql">
+  <component name="RunManager" selected="Application.MySQLClient">
     <configuration name="JDBCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JDBCDemo" />
       <module name="mysql 表设计" />
@@ -67,8 +79,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Batch.mysql" />
         <item itemvalue="Application.MySQLClient" />
+        <item itemvalue="Batch.mysql" />
         <item itemvalue="Application.JDBCDemo" />
       </list>
     </recent_temporary>
@@ -91,30 +103,30 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="357" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1591526969192" />
-    <state width="1322" height="353" key="GridCell.Tab.0.bottom" timestamp="1591433556619">
+    <state width="1322" height="353" key="GridCell.Tab.0.bottom" timestamp="1591688620358">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="353" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591433556619" />
-    <state width="1322" height="353" key="GridCell.Tab.0.center" timestamp="1591433556619">
+    <state width="1322" height="353" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591688620358" />
+    <state width="1322" height="353" key="GridCell.Tab.0.center" timestamp="1591688620358">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="353" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591433556619" />
-    <state width="1322" height="353" key="GridCell.Tab.0.left" timestamp="1591433556619">
+    <state width="1322" height="353" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591688620358" />
+    <state width="1322" height="353" key="GridCell.Tab.0.left" timestamp="1591688620358">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="353" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591433556619" />
-    <state width="1322" height="353" key="GridCell.Tab.0.right" timestamp="1591433556619">
+    <state width="1322" height="353" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591688620358" />
+    <state width="1322" height="353" key="GridCell.Tab.0.right" timestamp="1591688620358">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="353" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591433556619" />
+    <state width="1322" height="353" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591688620358" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1591526930575">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1591526930575" />
-    <state x="363" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1591526904102">
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1591686261924">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="363" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1591526904102" />
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1591686261924" />
     <state x="413" y="137" key="extract.method.dialog" timestamp="1591425488148">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

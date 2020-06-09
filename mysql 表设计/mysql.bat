@@ -1,1 +1,1 @@
-@java -cp "C:\java_code\web\mysql 表设计" com.lxy.MySQLClient %*
+@java -cp "C:\java_code\web\mysql-1\mysql 表设计\out\production\mysql 表设计;C:\java_code\web\mysql-1\mysql 表设计\lib\mysql-connector-java-5.1.47.jar" com.lxy.MySQLClient %*

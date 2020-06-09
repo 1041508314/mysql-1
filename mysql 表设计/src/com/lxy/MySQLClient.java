@@ -18,6 +18,7 @@ public class MySQLClient {
     private static String password = " ";
     private static String defaultDatabaseName = " ";
     public static void main(String[] args) {
+        System.out.println(Arrays.toString(args));
         if(args.length == 0){
             printUsageAndExit();
         }
